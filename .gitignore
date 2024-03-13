@@ -37,3 +37,4 @@ build/
 /.idea
 mvnw.cmd
 mvnw
+*.properties
